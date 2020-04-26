@@ -19,19 +19,19 @@ const TopNavigation = () => {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
           <NavDropdown title="Menu" id="basic-nav-dropdown" className="ml-4">
-            <Link to="/dashboard/about" className="ml-4 text-secondary">
+            <Link to="/A.Ghanei/dashboard/about" className="ml-4 text-secondary">
               About
             </Link>
             <br />
-            <Link to="/dashboard/skills" className="ml-4 text-secondary">
+            <Link to="/A.Ghanei/dashboard/skills" className="ml-4 text-secondary">
               Knowledge
             </Link>
             <br />
-            <Link to="/dashboard/documents" className="ml-4 text-secondary">
+            <Link to="/A.Ghanei/dashboard/documents" className="ml-4 text-secondary">
               Documents
             </Link>
             <br />
-            <Link to="/dashboard/contact" className="ml-4 text-secondary">
+            <Link to="/A.Ghanei/dashboard/contact" className="ml-4 text-secondary">
               Contact
             </Link>
             <br />
@@ -73,7 +73,7 @@ const TopNavigation = () => {
               Linkedin
             </Dropdown.Item>{" "}
             <NavDropdown.Divider />
-            <Link to="/dashboard/contact" className="ml-4 text-dark">
+            <Link to="/A.Ghanei/dashboard/contact" className="ml-4 text-dark">
               Contact me
             </Link>
             <br />

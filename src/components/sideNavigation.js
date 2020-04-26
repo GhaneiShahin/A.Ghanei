@@ -20,26 +20,26 @@ const SideNavigation = () => {
       </Link>
       <hr />
       <ListGroup className="list-group-flush">
-        <NavLink to="/dashboard/about" activeClassName="activeClass">
+        <NavLink to="/A.Ghanei/dashboard/about" activeClassName="activeClass">
           <ListGroup.Item>
             <FontAwesomeIcon icon={faUser} className="mr-3" />
             About
           </ListGroup.Item>
         </NavLink>
-        <NavLink to="/dashboard/skills" activeClassName="activeClass">
+        <NavLink to="/A.Ghanei/dashboard/skills" activeClassName="activeClass">
           <ListGroup.Item>
             <FontAwesomeIcon icon={faLaptopCode} className="mr-3" />
             Knowledge
           </ListGroup.Item>
         </NavLink>
-        <NavLink to="/dashboard/documents" activeClassName="activeClass">
+        <NavLink to="/A.Ghanei/dashboard/documents" activeClassName="activeClass">
           <ListGroup.Item>
             <FontAwesomeIcon icon={faFilePdf} className="mr-3" />
             Documents
             <Badge className="badge-info ml-1">3</Badge>
           </ListGroup.Item>
         </NavLink>
-        <NavLink to="/dashboard/contact" activeClassName="activeClass">
+        <NavLink to="/A.Ghanei/dashboard/contact" activeClassName="activeClass">
           <ListGroup.Item>
             <FontAwesomeIcon icon={faEnvelopeOpenText} className="mr-3" />
             Contact

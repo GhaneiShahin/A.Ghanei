@@ -13,7 +13,7 @@ const App = () => {
     <Page loader={"bar"} color={"#17a2b8"} size={10} duration={2}>
       <div className="flexible-content">
         <Switch>
-          <Route path="/dashboard" component={Dashboard} />
+          <Route path="/A.Ghanei/dashboard" component={Dashboard} />
           <Route path="/A.Ghanei" exact component={LandingPage} />
           {/* <Route component={NotFound} /> */}
           <Route path="*" exact component={NotFound} />
