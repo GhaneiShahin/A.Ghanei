@@ -36,7 +36,7 @@ const TopNavigation = () => {
             </Link>
             <br />
             <NavDropdown.Divider />
-            <Link to="/" className="ml-4 text-dark">
+            <Link to="/A.Ghanei" className="ml-4 text-dark">
               Back to Main
             </Link>
             <br />

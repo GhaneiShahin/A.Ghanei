@@ -14,7 +14,7 @@ const App = () => {
       <div className="flexible-content">
         <Switch>
           <Route path="/dashboard" component={Dashboard} />
-          <Route path="/" exact component={LandingPage} />
+          <Route path="/A.Ghanei" exact component={LandingPage} />
           {/* <Route component={NotFound} /> */}
           <Route path="*" exact component={NotFound} />
         </Switch>

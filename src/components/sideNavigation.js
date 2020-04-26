@@ -45,7 +45,7 @@ const SideNavigation = () => {
             Contact
           </ListGroup.Item>
         </NavLink>
-        <Link to="/">
+        <Link to="/A.Ghanei">
           <ListGroup.Item>
             <FontAwesomeIcon icon={faBackward} className="mr-3" />
             Back to Main

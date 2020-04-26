@@ -21,7 +21,7 @@ const NotFound = () => {
       <h4 className="text-info mb-5">
         The requested URL was not found on this server.
       </h4>
-      <Link to="/">
+      <Link to="/A.Ghanei">
         <Button variant="outline-secondary">
           <span className="fa fa-backward mr-3" />
           Back to Main

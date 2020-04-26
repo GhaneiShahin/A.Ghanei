@@ -39,7 +39,7 @@ const ProfilePage = () => {
                 After i finished the Course, i started directly to Work as
                 Assistant Teacher,
                 <br />
-                In the same Company and made a lot of greate Experience.
+                In the same Company and made a lot of greate Experiences.
               </p>
               <p className="text-secondary">
                 My Skill is Frontend such as React.js or Vue.js and a little bit
