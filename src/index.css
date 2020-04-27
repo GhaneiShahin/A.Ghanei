@@ -326,3 +326,17 @@ main {
 .docus-img {
   filter: grayscale(60%);
 }
+
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 200px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #17a2b8;
+}
