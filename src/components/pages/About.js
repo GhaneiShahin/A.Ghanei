@@ -48,7 +48,7 @@ const ProfilePage = () => {
                 I have also some Knowledge about Backend and Databases,
                 <br />
                 You can see them all{" "}
-                <Link className="text-info" to="/A.Ghanei/dashboard/skills">
+                <Link className="text-info" to="/dashboard/skills">
                   HERE
                 </Link>
                 .

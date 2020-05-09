@@ -23,7 +23,7 @@ const Documents = () => {
         <Slide>
           <Row className="d-flex justify-content-around mt-5 mb-5 docus">
             <Card
-              className="mt-3 mb-3 shadow docus-card"
+              className="mt-3 mb-4 shadow docus-card"
               style={{ width: "30%" }}
             >
               <Card.Img variant="top" src={code} className="docus-img" />
@@ -40,7 +40,7 @@ const Documents = () => {
               </Card.Body>
             </Card>
             <Card
-              className="shadow docus-card mb-3 mt-3"
+              className="shadow docus-card mb-4 mt-3"
               style={{ width: "30%" }}
             >
               <Card.Img variant="top" src={b2} className="docus-img" />
@@ -59,7 +59,7 @@ const Documents = () => {
               </Card.Body>
             </Card>
             <Card
-              className=" mt-3 mb-3 shadow docus-card"
+              className=" mt-3 mb-4 shadow docus-card"
               style={{ width: "30%" }}
             >
               <Card.Img variant="top" src={cv} className="docus-img" />

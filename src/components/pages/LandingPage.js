@@ -40,7 +40,7 @@ const LandingPage = () => {
                   <b className="text-danger">hi,</b> i am amirreza ghanei
                   <br /> i am a frontend developer
                 </h2>
-                <Link to="/A.Ghanei/dashboard/about">
+                <Link to="/dashboard/about">
                   <Button
                     variant="danger"
                     className="mt-4"
