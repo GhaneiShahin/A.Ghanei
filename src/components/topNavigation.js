@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import * as moment from "moment";
 import { Nav, Navbar, Button, NavDropdown, Dropdown } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -8,7 +9,6 @@ import {
   faGithub,
   faLinkedin
 } from "@fortawesome/free-brands-svg-icons";
-import { Link } from "react-router-dom";
 
 const TopNavigation = () => {
   const currentDate = moment().format("MMMM Do YYYY");

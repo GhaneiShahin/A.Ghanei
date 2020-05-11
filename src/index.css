@@ -327,7 +327,6 @@ main {
   filter: grayscale(60%);
 }
 
-
 ::-webkit-scrollbar {
   width: 5px;
   height: 200px;
@@ -340,3 +339,4 @@ main {
 ::-webkit-scrollbar-thumb {
   background: #17a2b8;
 }
+
