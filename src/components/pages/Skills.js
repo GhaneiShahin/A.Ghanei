@@ -125,8 +125,8 @@ const Skills = () => {
                             animated
                             variant="info"
                             style={{ width: "70%" }}
-                            now={thirty}
-                            label={`${thirty}%`}
+                            now={twenty}
+                            label={`${twenty}%`}
                             className="ml-3"
                           />
                         ) : null}
@@ -135,8 +135,8 @@ const Skills = () => {
                             animated
                             variant="info"
                             style={{ width: "70%" }}
-                            now={fifty}
-                            label={`${fifty}%`}
+                            now={thirty}
+                            label={`${thirty}%`}
                             className="ml-3"
                           />
                         ) : null}
@@ -182,8 +182,8 @@ const Skills = () => {
                             animated
                             variant="info"
                             style={{ width: "70%" }}
-                            now={thirty}
-                            label={`${thirty}%`}
+                            now={twenty}
+                            label={`${twenty}%`}
                             className="ml-3"
                           />
                         ) : null}
@@ -236,8 +236,8 @@ const Skills = () => {
                             animated
                             variant="info"
                             style={{ width: "70%" }}
-                            now={eighty}
-                            label={`${eighty}%`}
+                            now={sixty}
+                            label={`${sixty}%`}
                             className="ml-3"
                           />
                         ) : null}{" "}
@@ -263,8 +263,8 @@ const Skills = () => {
                             animated
                             variant="info"
                             style={{ width: "70%" }}
-                            now={eighty}
-                            label={`${eighty}%`}
+                            now={sixty}
+                            label={`${sixty}%`}
                             className="ml-3"
                           />
                         ) : null}{" "}
@@ -280,8 +280,8 @@ const Skills = () => {
                             animated
                             variant="info"
                             style={{ width: "70%" }}
-                            now={fifty}
-                            label={`${fifty}%`}
+                            now={thirty}
+                            label={`${thirty}%`}
                             className="ml-3"
                           />
                         ) : null}{" "}
@@ -297,8 +297,8 @@ const Skills = () => {
                             animated
                             variant="info"
                             style={{ width: "70%" }}
-                            now={forty}
-                            label={`${forty}%`}
+                            now={thirty}
+                            label={`${thirty}%`}
                             className="ml-3"
                           />
                         ) : null}{" "}
